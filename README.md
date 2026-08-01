@@ -1,4 +1,5 @@
 # Brazilian-E-Commerce-Public-Dataset-by-Olist-from-2016---2018
+Tableau Public Link : https://public.tableau.com/app/profile/vrinda.mathur1577/viz/Olist2016-2018datavisualization/Dashboard1?publish=yes
 SQL analysis of Brazilian e-commerce data (Olist) , revenue trends, customer segmentation, regional performance, and payment behavior insights using MySQL.
 Total Revenue:								 
 •	Total revenue: ~$16,008,872
